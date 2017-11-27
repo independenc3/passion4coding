@@ -6,7 +6,7 @@ They all are turned their passion into their profession in different verticals a
 ## Task at Hand
 To structure the different verticals and niches, you will build a navigation for that with React.
 
-Please find attached 3 lists (as json): CLICK HERE
+Please find in the json folder 3 lists:
 - 1x Verticals
 - 1x Categories 
 - 1x Courses
