@@ -13,7 +13,7 @@ Please find in the json folder 3 lists:
 
 As you can see, categories have a parent vertical and courses have a parent categories.
 
-**Your task is to build a UI where you can fold / unfold based on the lists with React.**
+**Your task is to build an UI where you can fold / unfold based on the lists with React.**
 
 ## Challenges you will face
 - Building a tree from the lists, state management, building reusable components, building modules that consists of modules, making it visually appealing
