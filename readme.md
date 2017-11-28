@@ -15,6 +15,9 @@ As you can see, categories have a parent called vertical and courses have a pare
 
 **Your task is to build an UI where you can fold / unfold based on the lists with ReactJS.**
 
+####Bonus FULL-STACK
+- Use the API oauth provider to identify your self
+
 ### Challenges you will face
 - Building a tree from the lists, state management, building reusable components, building modules that consists of modules, making it visually appealing
 
@@ -23,6 +26,9 @@ To serve the frontend, you will build the backend for that with an API.
 
 - Set up the models, controllers, and API
 - Database: SQLite or Postgres - please provide a seed file
+
+####Bonus
+- Set up a oauth provider to protect the API
 
 As you can see in the JSON folder, categories have a parent called vertical and courses have a parent called categories.
 
