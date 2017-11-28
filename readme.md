@@ -3,7 +3,7 @@
 Passion.io works with various successful people from around the globe. 
 They all are turned their passion into their profession in different verticals and niches.
 
-## Task at Hand
+## Task at Hand - FRONTEND / FULL-STACK POSITIONS ONLY
 To structure the different verticals and niches, you will build a navigation for that with ReactJS.
 
 Please find in the json folder 3 lists:
@@ -11,9 +11,19 @@ Please find in the json folder 3 lists:
 - 1x Categories 
 - 1x Courses
 
-As you can see, categories have a parent vertical and courses have a parent categories.
+As you can see, categories have a parent called vertical and courses have a parent called categories.
 
 **Your task is to build an UI where you can fold / unfold based on the lists with ReactJS.**
+
+## Task at Hand - BACKEND / FULL-STACK POSITIONS ONLY
+To serve the frontend, you will build the backend for that with an API.
+
+- Set up the models, controllers, and API
+- Database: SQLite or Postgres - please provide a seed file
+
+As you can see in the JSON folder, categories have a parent called vertical and courses have a parent called categories.
+
+**Your task is to build a simple RESTful API with Ruby / Ruby on Rails that will be consumed by external frontend applications.**
 
 ## Challenges you will face
 - Building a tree from the lists, state management, building reusable components, building modules that consists of modules, making it visually appealing
