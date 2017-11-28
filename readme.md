@@ -15,6 +15,9 @@ As you can see, categories have a parent called vertical and courses have a pare
 
 **Your task is to build an UI where you can fold / unfold based on the lists with ReactJS.**
 
+### Challenges you will face
+- Building a tree from the lists, state management, building reusable components, building modules that consists of modules, making it visually appealing
+
 ## Task at Hand - BACKEND / FULL-STACK POSITIONS ONLY
 To serve the frontend, you will build the backend for that with an API.
 
@@ -25,8 +28,9 @@ As you can see in the JSON folder, categories have a parent called vertical and 
 
 **Your task is to build a simple RESTful API with Ruby / Ruby on Rails that will be consumed by external frontend applications.**
 
-## Challenges you will face
-- Building a tree from the lists, state management, building reusable components, building modules that consists of modules, making it visually appealing
+### Challenges you will face
+- Ensuring that API can be scaled and is well-tested, abstracting business logic in reusable concerns or services
+
 
 ## Questions
 - How does your solution perform? 
