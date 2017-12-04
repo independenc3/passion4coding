@@ -31,7 +31,6 @@ As you can see in the JSON folder, categories have a parent called vertical and 
 ### Challenges you will face
 - Ensuring that API can be scaled and is well-tested, abstracting business logic in reusable concerns or services
 
-
 ## Questions
 - How does your solution perform? 
 - How does your solution scale?
