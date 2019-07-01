@@ -30,7 +30,7 @@ To serve the frontend, you will build the backend for that with an API.
 **Bonus**
 - Set up a oauth provider to protect the API
 - Send SQS/email message on create — it could be just kinda mock
-- Validate uniqueness of `Name` of `category` and `vertical` across both models
+- Validate uniqueness of `Name` of `category` and `vertical` across both models (if there is a category with name "TEST" then a vertical with name "TEST" can't be valid)
 
 As you can see in the JSON folder, categories have a parent called vertical and courses have a parent called categories.
 
